@@ -1,3 +1,7 @@
+
+**Live Site:** [https://xmrtdao.github.io/atlas-amd-hackathon/](https://xmrtdao.github.io/atlas-amd-hackathon/) | [Fleet Dashboard](https://relay.mobilemonero.com)
+
+---
 ---
 title: ATLAS AMD Hackathon
 emoji: 🧠
